@@ -1,0 +1,9 @@
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\bin\Debug\Telegram_bot.exe.config
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\obj\Debug\Telegram_bot.csprojResolveAssemblyReference.cache
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\bin\Debug\Telegram_bot.exe
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\bin\Debug\Telegram_bot.pdb
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\obj\Debug\Telegram_bot.exe
+E:\Project\C#\[Projects]\[Project]\Telegram_bot\Telegram_bot\obj\Debug\Telegram_bot.pdb
+C:\Users\XTreme.ws\Desktop\Telegram_bot\Telegram_bot\bin\Debug\Telegram_bot.exe.config
+C:\Users\XTreme.ws\Desktop\Telegram_bot\Telegram_bot\obj\Debug\Telegram_bot.exe
+C:\Users\XTreme.ws\Desktop\Telegram_bot\Telegram_bot\obj\Debug\Telegram_bot.pdb
